@@ -4,4 +4,5 @@ Public repository
 
 Testing access by another user to 
 
-Krrct Spellinns
+correct spellings
+
